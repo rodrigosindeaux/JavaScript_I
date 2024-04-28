@@ -5,7 +5,7 @@ const SALARIO_ACIMA_20 = 2000
 //input
 anoNascimento = parseInt(prompt("Informe o seu ano de nascimento"))
 nome = prompt("Informe o seu nome")
-salarioBase = parseFloat(prompt("Informe o salário base"))
+salarioBase = parseFloat(prompt("Informe o salário"))
 gratificacao = parseFloat(prompt("Informe a gratificação"))
 bonus = parseFloat(prompt("Informe o bônus"))
 desconto = parseFloat(prompt("Informe o desconto"))
